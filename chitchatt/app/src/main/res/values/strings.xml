@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">chitchatt</string>
+    <string name="title">Every Conversation Matters.</string>
+    <string name="title1">ChitChat</string>
+    <string name="aastha1">Aastha</string>
+    <string name="log1">Login</string>
+    <string name="email">EMAIL</string>
+    <string name="sign_in_to_continue">Sign in to continue.</string>
+    <string name="password">PASSWORD</string>
+    <string name="need_an_account">Need an account?</string>
+    <string name="sign_up">SIGN UP!</string>
+    <string name="create_new">Create New</string>
+    <string name="account">Account</string>
+    <string name="username">UserName</string>
+    <string name="email1">EMAIL</string>
+    <string name="password1">PASSWORD</string>
+    <string name="re_enter_password">RE-ENTER PASSWORD</string>
+    <string name="log11">Login!</string>
+    <string name="do_you_really_want_to_n_log_out">Do You really want to \n log out?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="name">Name</string>
+    <string name="status">Status</string>
+    <string name="namee">Name</string>
+    <string name="ee">name</string>
+    <string name="save">Save</string>
+    <string name="signup">signup</string>
+</resources>
